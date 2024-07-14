@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "my_krml_149874"
-version = "2024.0.1.2"
+version = "2024.0.1.3"
 description = "My sweet Knowledge Repository for Machine Learning projects"
 authors = ["anthony"]
 license = "MIT"
